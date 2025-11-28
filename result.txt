@@ -1,0 +1,8 @@
+Squirrel 10 10
+Squirrel 15 15
+Squirrel 5 5
+Squirrel 30 30
+Squirrel 400 400
+Squirrel 450 450
+Squirrel 480 480
+Squirrel 250 10
